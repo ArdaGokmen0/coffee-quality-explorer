@@ -43,3 +43,4 @@ This app allows users to explore arabica coffee quality data from around the wor
 ## 👤 Author
 
 Made as a learning project — exploring data visualization and Streamlit dashboard development.
+test
